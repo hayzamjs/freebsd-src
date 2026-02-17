@@ -47,6 +47,7 @@ SRCS=	\
 	pci_nvme.c		\
 	pci_uart.c		\
 	pci_virtio_9p.c		\
+	pci_virtio_balloon.c	\
 	pci_virtio_block.c	\
 	pci_virtio_console.c	\
 	pci_virtio_input.c	\
